@@ -1,0 +1,5 @@
+# lead.castara.io
+User-agent: *
+Allow: /
+
+Sitemap: https://lead.castara.io/sitemap.xml
